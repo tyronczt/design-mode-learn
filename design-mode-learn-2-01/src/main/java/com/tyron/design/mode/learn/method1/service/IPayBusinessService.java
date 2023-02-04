@@ -1,6 +1,6 @@
 package com.tyron.design.mode.learn.method1.service;
 
-import com.tyron.design.mode.learn.method1.entity.PaymentMethodsEnum;
+import com.tyron.design.mode.learn.PaymentTypeEnum;
 import com.tyron.design.mode.learn.method1.entity.UserInfo;
 
 /**
@@ -10,5 +10,5 @@ import com.tyron.design.mode.learn.method1.entity.UserInfo;
  */
 public interface IPayBusinessService {
 
-    void payOperate(PaymentMethodsEnum type, UserInfo userInfo);
+    void payOperate(PaymentTypeEnum type, UserInfo userInfo);
 }
