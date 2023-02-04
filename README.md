@@ -10,9 +10,9 @@
 
 √[【设计模式】三、单一职责原则](https://tyron.blog.csdn.net/article/details/128805922)
 
--[【设计模式】四、开闭原则]()
+√[【设计模式】四、开闭原则](https://tyron.blog.csdn.net/article/details/128887104)
 
-[【设计模式】五、里氏代换原则]()
+-【设计模式】五、里氏代换原则]()
 
 [【设计模式】六、依赖倒转原则]()
 
