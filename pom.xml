@@ -23,6 +23,7 @@
         <module>design-mode-learn-1-02</module>
         <module>design-mode-learn-1-03</module>
         <module>design-mode-learn-2-01</module>
+        <module>design-mode-learn-3-01</module>
     </modules>
 
     <dependencies>
