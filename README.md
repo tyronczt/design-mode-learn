@@ -17,10 +17,10 @@
 √[【设计模式】六、依赖倒置原则](https://tyron.blog.csdn.net/article/details/128945492)
 
 √[【设计模式】七、接口隔离原则](https://tyron.blog.csdn.net/article/details/128949058)
- 
--[【设计模式】八、合成复用原则]()
 
-[【设计模式】九、迪米特法则]()
+√[【设计模式】八、合成复用原则](https://tyron.blog.csdn.net/article/details/128957400)
+
+-[【设计模式】九、迪米特法则]()
 
 ## UML急速入门
 √[【设计模式】十、UML急速入门](https://tyron.blog.csdn.net/article/details/128854626)
