@@ -26,6 +26,7 @@
         <module>design-mode-learn-3-01</module>
         <module>design-mode-learn-3-02</module>
         <module>design-mode-learn-4-01</module>
+        <module>design-mode-learn-5-01</module>
     </modules>
 
     <dependencies>
