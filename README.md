@@ -14,11 +14,11 @@
 
 √[【设计模式】五、里氏替换原则](https://tyron.blog.csdn.net/article/details/128920705)
 
--[【设计模式】六、依赖倒置原则]()
+√[【设计模式】六、依赖倒置原则](https://tyron.blog.csdn.net/article/details/128945492)
 
-[【设计模式】七、接口隔离原则]()
-
-[【设计模式】八、合成复用原则]()
+√[【设计模式】七、接口隔离原则](https://tyron.blog.csdn.net/article/details/128949058)
+ 
+-[【设计模式】八、合成复用原则]()
 
 [【设计模式】九、迪米特法则]()
 
