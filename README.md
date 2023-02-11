@@ -20,14 +20,14 @@
 
 √[【设计模式】八、合成复用原则](https://tyron.blog.csdn.net/article/details/128957400)
 
--[【设计模式】九、迪米特法则]()
+-[【设计模式】九、迪米特法则](https://tyron.blog.csdn.net/article/details/128990756)
 
 ## UML急速入门
 √[【设计模式】十、UML急速入门](https://tyron.blog.csdn.net/article/details/128854626)
 
 ## 设计模式学习
 ### 创建型模式
-[【设计模式】十一、简单工厂模式]()
+-[【设计模式】十一、简单工厂模式]()
 
 [【设计模式】十二、工厂方法模式]()
 
