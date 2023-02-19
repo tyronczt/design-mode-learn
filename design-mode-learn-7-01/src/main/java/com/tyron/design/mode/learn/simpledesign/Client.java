@@ -13,16 +13,7 @@ import java.io.InputStreamReader;
  */
 public class Client {
 
-//    public static void main(String[] args) throws IOException {
-//        double price = 500.0;
-//        String payMethod = getMethod();
-//        IPay pay = payFactory.createPayMethod(payMethod);
-//        pay.pay(price);
-//    }
-
-    private static String getMethod() throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("请输入支付方式：");
-        return bufferedReader.readLine();
+    public static void main(String[] args) {
+        new OrderPay();
     }
 }

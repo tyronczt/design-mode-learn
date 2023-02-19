@@ -15,21 +15,10 @@ import java.io.InputStreamReader;
  * @create: 2023-02-18
  */
 public class OrderPay {
-
-    public OrderPay(){
+    public OrderPay() {
         String method = getMethod();
-
-    }
-
-    public IPay createPayMethod(String patMethod) {
-        switch (patMethod) {
-            case "wechat":
-                return new WeChatPay();
-            case "aliPay":
-                return new AliPay();
-            default:
-                return new UnionPay();
-        }
+        IPay pay = SimpleFactory.createPayMethod(method);
+        pay.pay(500.0);
     }
 
     private String getMethod() {
