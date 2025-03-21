@@ -1,6 +1,6 @@
 package com.tyron.design.mode.learn.context;
 
-import com.tyron.design.mode.learn.state.IOrderState;
+import com.tyron.design.mode.learn.strategy.IOrderState;
 
 /**
  * OrderContext 类用于管理订单的状态和状态转换。
